@@ -1,7 +1,7 @@
 # Uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification
 
 [查看存档](https://example.com/archive-link)
-![image](https://github.com/ziyuey/Uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification/blob/main/overall.pdf)
+![image](./overall.pdf)
 
 ## Quick Start
 
