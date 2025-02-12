@@ -1,3 +1,17 @@
 # Uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification
 
-We will organize and upload our dataset and running code as soon as possible
+[查看存档](https://example.com/archive-link)
+
+## Quick Start
+
+git@github.com:ziyuey/Uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification.git
+
+## Datasets
+
+Our dataset is generated based on [CAMO](https://example.com/archive-link), with the primary distinction being the creation of corresponding background images. Subsequently, we will upload our image dataset along with the associated EEG data.
+
+## Training and Evaluation
+
+## Results
+
+## Reference
