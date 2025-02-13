@@ -1,6 +1,6 @@
 # Uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification
 
-[查看存档](https://example.com/archive-link)
+[查看存档](https://arxiv.org/abs/2502.08373)
 
 
 ![image](./photo.png)
